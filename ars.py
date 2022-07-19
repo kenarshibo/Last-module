@@ -1,2 +1,2 @@
-print()
+print(89)
 pow()

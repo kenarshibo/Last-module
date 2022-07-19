@@ -1,2 +1,2 @@
 print(89)
-pow()
+print('щняга')
